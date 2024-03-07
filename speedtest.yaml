@@ -1,0 +1,26 @@
+payload:
+  # > Fast
+  - DOMAIN-SUFFIX,fast.com
+
+  # > Speedtest by Ookla
+  # - USER-AGENT,SpeedTest*
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN,speed.dler.io
+  - DOMAIN-KEYWORD,speedtestcustom
+
+  # > Speed Test by Cloudflare
+  - DOMAIN-SUFFIX,speed.cloudflare.com    
+  - DOMAIN-SUFFIX,cbn.speedtestcustom.com
+  - DOMAIN-SUFFIX,cbn.id
+  - DOMAIN-SUFFIX,c.speedtestcustom.com
+  - DOMAIN-SUFFIX,sonic.speedtestcustom.com
+  - DOMAIN-SUFFIX,healthypc.speedtestcustom.com
+  - DOMAIN-SUFFIX,pcmag.speedtestcustom.com
+  - DOMAIN-SUFFIX,telmexmexico.speedtestcustom.com
+  - DOMAIN-SUFFIX,wasabi.speedtestcustom.com
+  - DOMAIN-SUFFIX,frontier.speedtestcustom.com
+  - DOMAIN-SUFFIX,ipcow.dualstack.speedtestcustom.com
+  - DOMAIN-SUFFIX,izzi.speedtestcustom.com
+  - DOMAIN-SUFFIX,gfiber.speedtestcustom.com
+  - DOMAIN-SUFFIX,speedtestcustom.com
